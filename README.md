@@ -18,9 +18,11 @@ Data Preparation:
   2. Tokenize the review text using NLTK.
 
 VADER Sentiment Analysis:
+
   3. Apply VADER to each review and store its sentiment scores (negative, neutral, positive, compound).
 
 RoBERTa Sentiment Analysis:
+
   4. Apply the RoBERTa model to each review and store its sentiment probabilities (negative, neutral, positive). Comparison & Visualization:
 
   5. Merge the VADER and RoBERTa results into a single dataframe.
