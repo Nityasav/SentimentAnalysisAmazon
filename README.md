@@ -2,9 +2,9 @@ Sentiment Analysis on Amazon Reviews Overview This project performs sentiment an
 
 REQUIREMENTS: Download https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews in order to run this program as this is the dataset being used
     You will also need 
-    '''python
+    ```python
     // pip install requirements
-    '''
+    ```
     
 
 The project explores how these two models (VADER and RoBERTa) perform on Amazon reviews by comparing their sentiment classification results across a sample of 200 reviews.
