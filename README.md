@@ -2,8 +2,8 @@ Sentiment Analysis on Amazon Reviews Overview This project performs sentiment an
 
 REQUIREMENTS: Download https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews in order to run this program as this is the dataset being used
     You will also need 
-    ```python
-    // pip install requirements
+    
+    ``` pip install requirements
     ```
     
 
