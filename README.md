@@ -1,7 +1,7 @@
 Sentiment Analysis on Amazon Reviews Overview This project performs sentiment analysis on Amazon reviews by leveraging both the VADER sentiment analysis tool from the nltk package and a RoBERTa model fine-tuned for sentiment analysis on tweets, from Hugging Face's transformers library.
 
 REQUIREMENTS: Download https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews in order to run this program as this is the dataset being used
-    You will also need 
+    You will also need:
     
      pip install requirements
     
